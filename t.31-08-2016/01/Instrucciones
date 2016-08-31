@@ -2,22 +2,32 @@ Hola brillante alumno!
 
 Lee cuidadosamente las siguientes instrucciones para poder entregar y hacer bien tu tarea :)
 
-1. La tarea la podrás encontrar en este link https://github.com/raymicha/Tarea-TLS-31-08-2016/tree/master/t.31-08-2016/01 o puedes jalarla desde el disco de Alumnos. La ruta para jalarla desde el disco es DDMD/Tareas/
+1. La tarea la podrás encontrar en este link https://github.com/raymicha/Tarea-TLS-31-08-2016/tree/master/t.31-08-2016/01 o puedes jalarla desde el disco de Alumnos. La ruta para jalarla desde el disco es DDMD/Tareas/t.31-08-2016/01
 
 Tienes una semana contando desde el día miércoles 31-08-2016 para descargarla, luego de eso el repositorio será eliminado.
 
-2. En la carpeta Docs encontrarás dos imágenes: la primera es la web que tendrás que maquetar para desktop y la segunda es la versión para móviles. Si, parte de la tarea es aplicar lo que aprendiste sobre Responsive Design
+2. En la carpeta Docs encontrarás dos imágenes en donde verás el sitio que maquetarás 
 
 3. El deadline de entrega es el día martes 6 de setiembre a la medianoche. Ni un minuto más, ni un minuto menos. 
 De no hacer la entrega dentro del deadline se considerará la tarea como no realizada y por lo tanto tendrá como nota 0.
 
-4. La tarea se debe de ser subida como un repositorio en tu cuenta de Github. 
+4. Para la entrega de la tarea así como para enviarme un correo con sus dudas tienes las siguientes opciones:
+
+	a. Subirla a un repositorio en Github y enviarme el link por correo
+
+	b. Subirla a un servidor simple que aloje tu tarea y enviarme el link por correo
+
+	c. Si todo lo anterior fallara, adjuntar las fuentes de la tarea en un correo y mandármelo.
+
+P.D: Quien me envíe la tarea usando el método a, tendrá 2 puntos extra en su nota de primer promedio.
 
 5. Si tienes alguna duda sobre algún error o algo que no te salga de la tarea puedes hacer lo siguiente: 
 
 		a. Subirla a Github Pages y enviarme el link por correo ( en caso no pudieras subirla a Github Pages puedes enviarme el link del repositorio para que pueda descargarlo )
 
 		b. Subirla a un servidor simple que aloje tu tarea y enviarme el link por correo 
+
+		c. Si todo lo anterior fallara puedes enviarme las fuentes de la tarea al correo que menciono al final de este documento. El deadline es el mismo. 
 
 Usando cualquiera de estas opciones, me haces el envío de tu trabajo hasta donde hayas avanzado y me especificas exactamente donde es que te sale el error y que es lo que has intentado hacer para resolverlo. De esta forma yo tendré suficiente contexto para poder ayudarte lo más rápido posible.
 
